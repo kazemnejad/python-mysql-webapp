@@ -4,7 +4,7 @@
 
 1- Wamp/Lamp should be installed 
 
-2- Open PhpMyAadmin, create new database named "test", import "db.sql" into newly created database
+2- Open PhpMyAdmin, create new database named "test", import "db.sql" into newly created database
 
 3- Install Python MySQL connector
 
